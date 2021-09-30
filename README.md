@@ -47,4 +47,6 @@ in(B),t=c*h*g-f*        e;int x=40+30*D*
                                       ,--,.....,,,---------                    
                                         .........,,,,,,,,,                     
                                            .............                       
-                                                                               
+                                                                       
+                                                                       ![image](https://user-images.githubusercontent.com/49652572/135488149-1cf11541-651f-44b6-8618-f89abe95ff74.png)
+
